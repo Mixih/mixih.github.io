@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coala on Idle Operations</title>
+    <link>https://mixih.github.io/tags/coala/</link>
+    <description>Recent content in Coala on Idle Operations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2017 18:35:52 -0500</lastBuildDate>
+    <atom:link href="https://mixih.github.io/tags/coala/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello!</title>
+      <link>https://mixih.github.io/2017/05/hello/</link>
+      <pubDate>Sat, 06 May 2017 18:35:52 -0500</pubDate>
+      
+      <guid>https://mixih.github.io/2017/05/hello/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Due to popular demand, and the fact I wrote myself into it in the last release notes,
+I&amp;#8217;m starting a blog now. Astute observers may notice that this blog was requested last
+release, but I completely forgot about it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;I&amp;#8217;m a *NIX user/programmer who really doesn&amp;#8217;t like much else &lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_1&#34; class=&#34;footnote&#34; href=&#34;#_footnote_1&#34; title=&#34;View footnote.&#34;&gt;1&lt;/a&gt;]&lt;/sup&gt;
+operating system wise. I administer a small home server and handle releases over at the
+coala project. As far as I am concerned, Cisco low end consumer gear and low end business
+gear is absolute crap (the ASA 5505 is a particular offender). I permanently switched to
+Linux after Windows 10 made it clear it wanted to be one giant piece of spyware (I had
+been a long time Linux user before).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This blog will mainly contain technical writeups on coala releases. I might end up
+adding other things over time like GSOC or other events. This will not be a personal
+blog (I&amp;#8217;m hoping) and thus will not have any life story, philosophy, etc. I&amp;#8217;ll mainly
+writing this in my free time so the posting frequency will probably be very erratic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;This blog is powered by Hugo, using asciidoc as the markup language. So far, Hugo has
+been pretty impressive; the generation time is ridiculously low for the few stress tests
+I&amp;#8217;ve run so far. Initially, was going to try pelican since it was written in python and
+was supposedly light and fast. However, I couldn&amp;#8217;t find a theme with the capabilities I
+wanted so I chose Hugo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;As you can see from a first glance, it&amp;#8217;s pretty stock theming options. I kept nearly
+all of the CSS which shipped with the theme since my design aesthetic really sucks (I
+should have failed art). However, I did tweak some of the linking and HTML to make the
+site more intuitive (I hope&amp;#8230;&amp;#8203;) I still plan on  touching up few more things like the
+side bar and other assorted bits to look slightly nicer. Expect more on the technical
+details in future blog posts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Anyways, this post has gone on long enough, so I&amp;#8217;ll end it here. Expect a blog post on
+coala&amp;#8217;s 0.11.0rc2 soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;footnotes&#34;&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnote_1&#34;&gt;
+&lt;a href=&#34;#_footnoteref_1&#34;&gt;1&lt;/a&gt;. Yes Mac OSX is unix, but how could I possible like an OS which ships a 7 year outdated bash verison?
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+ 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Idle Operations</title>
+    <link>https://mixih.github.io/page/</link>
+    <description>Recent content in Pages on Idle Operations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2017 12:41:13 -0500</lastBuildDate>
+    <atom:link href="https://mixih.github.io/page/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Information</title>
+      <link>https://mixih.github.io/page/contact/</link>
+      <pubDate>Sat, 06 May 2017 12:41:13 -0500</pubDate>
+      
+      <guid>https://mixih.github.io/page/contact/</guid>
+      <description>&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_social_media&#34;&gt;Social Media:&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Gitter username: Mixih&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_email&#34;&gt;Email:&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;code&gt;mixih [at] coala [dot] io&lt;/code&gt;
+&lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_1&#34; class=&#34;footnote&#34; href=&#34;#_footnote_1&#34; title=&#34;View footnote.&#34;&gt;1&lt;/a&gt;]&lt;/sup&gt;
+&lt;sup class=&#34;footnote&#34;&gt;[&lt;a id=&#34;_footnoteref_2&#34; class=&#34;footnote&#34; href=&#34;#_footnote_2&#34; title=&#34;View footnote.&#34;&gt;2&lt;/a&gt;]&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;sect3&#34;&gt;
+&lt;h4 id=&#34;_gpg_encrypted&#34;&gt;GPG/encrypted:&lt;/h4&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;To be added once I stop losing my gpg keys&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;footnotes&#34;&gt;
+&lt;hr&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnote_1&#34;&gt;
+&lt;a href=&#34;#_footnoteref_1&#34;&gt;1&lt;/a&gt;. Replace [at] and [dot] with the appropriate symbols
+&lt;/div&gt;
+&lt;div class=&#34;footnote&#34; id=&#34;_footnote_2&#34;&gt;
+&lt;a href=&#34;#_footnoteref_2&#34;&gt;2&lt;/a&gt;. Yes I know this doesn&amp;#8217;t really stop bots, but it stops stupid ones
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+ 
